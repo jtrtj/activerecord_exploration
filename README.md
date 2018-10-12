@@ -1,3 +1,5 @@
+_Part of the curriculmn at Turing:_
+
 # Introduction to ActiveRecord 1.0
 
 ## Overview
